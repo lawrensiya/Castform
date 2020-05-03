@@ -1,0 +1,59 @@
+Project Task:
+    Project:
+        ☐ 
+    
+    Task:
+        GUI:
+            ☐ User Login
+                ✔ @today  UI Design Doodle @done (4/23/2020, 1:30:47 AM)
+                ✔ @today Qt Designer Formulation @done (4/23/2020, 12:03:09 PM)
+                ✔ @today Semi-functional Buttons @done (4/23/2020, 1:57:12 PM)
+                ✔ Connect with Register Dialog when Register is clicked @done (4/23/2020, 3:11:32 PM)
+                ✘ @low  Add App Title @cancelled (5/1/2020, 12:38:00 AM)
+                ✔ Password LineEdit should be censored @done (4/23/2020, 4:28:07 PM)
+                ✘ Put in main.py @cancelled (4/23/2020, 8:49:10 PM)
+                ✔ Connect to Database @done (4/29/2020, 9:03:00 PM)
+                ✔ Access Database @done (5/1/2020, 12:37:50 AM)
+
+
+            ☐ Register Dialog
+                ✔ UI Design Doodle @done (4/23/2020, 2:51:29 PM)
+                ✔ Qt Design @done (4/23/2020, 2:51:28 PM)
+                ✔ Functional Buttons and LineEdit @done (4/23/2020, 2:51:04 PM)
+                ✔ Check if pass and repass is the same @done (4/23/2020, 4:30:32 PM)
+                ✔ Checks if fields are empty @done (4/23/2020, 4:30:46 PM)
+                ✔ Create Popup window if pass and repass is not the same @done (4/23/2020, 4:31:05 PM)
+                ✔ pass and repass should be hidden @done (4/23/2020, 4:31:06 PM)
+                ✔ Connect with Login Dialog when cancel button is clicked @done (4/23/2020, 3:11:18 PM)
+                ✔ Connect to Database @done (5/1/2020, 12:36:20 AM)
+                ✔ Add Data to Database @done (5/1/2020, 12:36:21 AM)
+
+            ☐ Home Form
+                ✔ Deisgn UI Scratch @done (4/29/2020, 9:03:08 PM)
+                ✔ Add new Profile Custom @done (5/1/2020, 12:36:23 AM)
+                ✔ Show Status when login [Guest, Login] @done (5/1/2020, 12:36:25 AM)
+                ✔ Connect to Database @done (5/1/2020, 10:23:01 AM)
+                ✔ Add Table @done (5/1/2020, 10:23:02 AM)
+                ✔ Create StackedWidget @done (5/1/2020, 10:23:03 AM)
+                ☐ Get Data from DB to Graph
+                ☐ Insert Data to Database table weather_data
+
+
+        Others:
+            ☐ Create Offline Database
+                ✔ Create User Table @done (4/23/2020, 5:27:05 PM)
+                    ✔ Username @done (4/23/2020, 5:27:06 PM)
+                    ✔ Firstname @done (4/23/2020, 5:27:07 PM)
+                    ✔ Lastname @done (4/23/2020, 5:27:07 PM)
+                    ✔ Password @done (4/23/2020, 5:27:08 PM)
+                    ✔ Status @done (4/23/2020, 5:27:09 PM)
+                ✔ Add weather_data table @done (5/1/2020, 11:11:54 AM)
+                    ✔ Insert data to table @done (5/1/2020, 11:11:56 AM)
+                    ☐ Alter Database Datatype
+
+
+    Materials:
+        ☐ https://www.youtube.com/watch?v=kaObmQmPd-Q
+
+
+        
