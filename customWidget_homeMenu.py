@@ -9,6 +9,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 
 class customWidget_homeMenu(QWidget):
+    
     def __init__(self,*args, **kwargs):
         super(customWidget_homeMenu, self).__init__(*args, **kwargs)
         self.layout = QVBoxLayout()
@@ -35,7 +36,6 @@ class customWidget_homeMenu(QWidget):
         self.layout.addWidget(self.singout_button)
         self.setLayout(self.layout)
 
-        
         self.setFixedSize(250, 350)
         return
 
