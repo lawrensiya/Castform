@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import *
 import numpy as np
 
 class customWidget_HomeGraph(QWidget):
+    
     def __init__(self):
         win = pg.plot()
         win.setWindowTitle('pyqtgraph BarGraphItem')
