@@ -120,3 +120,6 @@ if __name__ == '__main__':
     window = ui_Login()
     cond = window.AppShow()  
     sys.exit(app.exec_())          
+    
+    
+    
