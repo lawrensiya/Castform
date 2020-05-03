@@ -20,7 +20,6 @@ class customWidget_HomeGraph(QWidget):
         win.addItem(bg1)
 
 ## Start Qt event loop unless running in interactive mode or using 
-
 if __name__ == '__main__':
     app = QApplication([])
     window = ui_Home()
