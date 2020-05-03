@@ -9,6 +9,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 
 class  customWid_Profile(QWidget):
+    
     def __init__(self, *args, **kwargs):
         super(customWid_Profile, self).__init__(*args, **kwargs)
         self.layout = QVBoxLayout()
@@ -43,7 +44,6 @@ class  customWid_Profile(QWidget):
         self.singout_button = QPushButton('Sign Out')
         self.singout_button.setFixedHeight(50)
 
-
         #Layout
         self.layout.addStretch()
         self.layout.addWidget(self.labelimage)
@@ -65,9 +65,6 @@ class  customWid_Profile(QWidget):
         self.finalLayout.setStackingMode(QStackedLayout.StackAll)
         self.finalLayout.addWidget(BG)
         self.finalLayout.addWidget(widget_arrangement)
-
-        
-
         self.setLayout(self.finalLayout)
         self.setFixedSize(200,520)
         return
