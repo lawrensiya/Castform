@@ -1,4 +1,3 @@
-#NAVARRO, AIRA LAURENCIA T.
 import sys
 import os
 import ui_Login
