@@ -2,6 +2,9 @@
 
 ![1](https://user-images.githubusercontent.com/63195930/80985937-7212df00-8e62-11ea-9e56-60f598c81981.png)
 
+## PROJECT TENKI
+***A weather forecasting using data mining, an application of science and technology to predict the state of the atmosphere base on the past and uploaded data.
+
 
 
 Abstract:
@@ -15,3 +18,4 @@ In the project, we used a data set which contain over 300 weather information th
 ![flowchart](https://user-images.githubusercontent.com/63195930/80984888-0a0fc900-8e61-11ea-9149-390597a5ef35.png)
 
 
+/n
