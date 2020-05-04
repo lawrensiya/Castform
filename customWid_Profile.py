@@ -78,3 +78,4 @@ if __name__ == '__main__':
     volume = customWid_Profile()
     volume.show()
     app.exec_()
+     
