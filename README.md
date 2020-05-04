@@ -1,4 +1,5 @@
 # Castform
+
 # Weather Forecasting Using Data Mining Master
 
 
@@ -8,5 +9,8 @@ Forecasting is ubiquitous no matter which field you’re In, and in this project
 Weather forecasting has been one of the most scientifically and technologically challenging problems all around the world over this century. 
 In our proposed project, we are going to use the data mining technique in predicting the weather. 
 In the project, we used a data set which contain over 300 weather information that could help us successfully predict the weather. 
+
+# Flow Diagram
+![flowchart](https://user-images.githubusercontent.com/63195930/80984888-0a0fc900-8e61-11ea-9149-390597a5ef35.png)
 
 
