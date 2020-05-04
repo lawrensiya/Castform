@@ -1,4 +1,4 @@
-# Castform
+# CASTFORM
 
 ![1](https://user-images.githubusercontent.com/63195930/80985937-7212df00-8e62-11ea-9e56-60f598c81981.png)
 
