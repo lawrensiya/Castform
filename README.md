@@ -27,7 +27,7 @@ In the project, we used a data set which contain over 300 weather information th
 
 ***Before we run the program there are some programs and packages that we need to download and they are listed below:***
 
-*Software Requirements:*
+**Software Requirements**
 - Anaconda Navigator
 - VS Codes
 - PYQT5
