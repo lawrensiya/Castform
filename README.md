@@ -67,6 +67,7 @@ Firstly, we have a dataset which is then loaded by the program, wherein after lo
 ![image](https://user-images.githubusercontent.com/63195930/81062201-24e94880-8f08-11ea-9529-160a64c5cd3f.png)
 
 ***Figure 6: TABLE DATA SECTION OF THE PROGRAM WHERE THE DATABASE IS DISPLAYED***
+
 ![image](https://user-images.githubusercontent.com/63195930/81061950-d2a82780-8f07-11ea-9854-c591676024f2.png)
 
 ***Figure 7: UPLOAD DATA SECTION WHERE THE USER CAN UPLOAD DATA THAT COULD HELP US PREDICT THE WEATHER MORE ACCURATELY.***
