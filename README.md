@@ -71,4 +71,13 @@ In the project, we used a data set which contain over 300 weather information th
 ![image](https://user-images.githubusercontent.com/63195930/81061958-d5a31800-8f07-11ea-9a5c-ccc75187ea17.png)
 
 
+## THIS PROJECT WAS MADE AND SUBMITTED BY: 
+
+- ALAMAN, EIZHNER 					
+- ARELLANO, GENEVIEVE
+- CANACELLI, ZANDRO
+- LANGCAUON, TIMOTHY
+- LECHONCITO, ARTHUR
+- NAVARRO, AIREN
+- QUITELES, SEAN ARGIE
 
