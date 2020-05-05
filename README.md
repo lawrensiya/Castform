@@ -23,6 +23,10 @@ In the project, we used a data set which contain over 300 weather information th
 
 *Firstly, we have a dataset which is then loaded by the program, wherein after loading the dataset it is also cleaned to avoid miscalculations, then we feature the selection and classify it, then this is when we start predicting the weather wherein the final product of the program is the generation of the weather result.*
 
+***EXPLANATION OF THE 2ND FLOWCHART***
+
+*The program consist of a user and an admin where the admin has special privileges in the program.*
+
 ## RUNNING THE PROGRAM
 
 ***Before we run the program there are some programs and packages that we need to download and they are listed below:***
