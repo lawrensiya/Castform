@@ -24,7 +24,8 @@ In the project, we used a data set which contain over 300 weather information th
 *Firstly, we have a dataset which is then loaded by the program, wherein after loading the dataset it is also cleaned to avoid miscalculations, then we feature the selection and classify it, then this is when we start predicting the weather wherein the final product of the program is the generation of the weather result.*
 
 ## ***FLOW DIAGRAM 2***
-![image](https://user-images.githubusercontent.com/63195930/81063506-7f83a400-8f0a-11ea-90cc-f59ce17fa576.png)
+![3](https://user-images.githubusercontent.com/63195930/81067103-bc529980-8f10-11ea-8883-de05eec6ac5f.jpg)
+
 
 ***EXPLANATION OF THE 2ND FLOWCHART***
 
