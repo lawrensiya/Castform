@@ -9,11 +9,11 @@
 
 ## ABSTRACT OF THE PROJECT:
 
-*Forecasting is ubiquitous no matter which field you’re in, and in this project, we’re going to focus on making a program that could predict the weather. 
+Forecasting is ubiquitous no matter which field you’re in, and in this project, we’re going to focus on making a program that could predict the weather. 
 Weather forecasting has been one of the most scientifically and technologically challenging problems all around the world over this century. 
 In our proposed project, we are going to use the data mining technique in predicting the weather. Data mining's concept is using a stored data from a database that could be used within the execution of the program. In this case, we used over 300 data to be able to predict the weather.
 
-To explain further, our program asks its users to input certain values. From these inputs, the program will now use this and the stored data to calculate the weather of the day.*
+To explain further, our program asks its users to input certain values. From these inputs, the program will now use this and the stored data to calculate the weather of the day.
 
 
 ## ***FLOW DIAGRAM***
