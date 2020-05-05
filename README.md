@@ -26,7 +26,7 @@ Firstly, we have a dataset which is then loaded by the program, wherein after lo
 ![3](https://user-images.githubusercontent.com/63195930/81067103-bc529980-8f10-11ea-8883-de05eec6ac5f.jpg)
 
 
-***FLOWCHART EXPLANATION***
+***FLOWCHART DESCRIPTION***
 
 *The program consist of a user and an admin where the admin has special privileges in the program.*
 
