@@ -17,7 +17,8 @@ In the project, we used a data set which contain over 300 weather information th
 
 ## ***FLOW DIAGRAM***
 
-![flowchart](https://user-images.githubusercontent.com/63195930/80984888-0a0fc900-8e61-11ea-9149-390597a5ef35.png)
+![4](https://user-images.githubusercontent.com/63195930/81068181-844c5600-8f12-11ea-880a-afeb5724c61d.jpg)
+
 
 ***EXPLANATION OF THE FLOWCHART***
 
