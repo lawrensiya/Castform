@@ -34,5 +34,6 @@ In the project, we used a data set which contain over 300 weather information th
 - MYSQL
 - SQLITE 
 - PYQTGraph
-      
+
+
 
