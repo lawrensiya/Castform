@@ -9,11 +9,8 @@
 
 ## ABSTRACT OF THE PROJECT:
 
-Forecasting is ubiquitous no matter which field you’re in, and in this project, we’re going to focus on making a program that could predict the weather. 
-Weather forecasting has been one of the most scientifically and technologically challenging problems all around the world over this century. 
-In our proposed project, we are going to use the data mining technique in predicting the weather. Data mining's concept is using a stored data from a database that could be used within the execution of the program. In this case, we used over 300 data to be able to predict the weather.
-
-To explain further, our program asks its users to input certain values. From these inputs, the program will now use this and the stored data to calculate the weather of the day.
+*Forecasting is ubiquitous no matter which field you’re in, and in this project, we’re going to focus on making a program that could predict the weather. Weather forecasting has been one of the most scientifically and technologically challenging problems all around the world over this century.* 
+*In our proposed project, we are going to use the data mining technique in predicting the weather. Data mining's concept is using a stored data from a database that could be used within the execution of the program. In this case, we used over 300 data to be able to predict the weather.*
 
 
 ## ***FLOW DIAGRAM***
@@ -21,21 +18,21 @@ To explain further, our program asks its users to input certain values. From the
 ![4](https://user-images.githubusercontent.com/63195930/81068181-844c5600-8f12-11ea-880a-afeb5724c61d.jpg)
 
 
-***EXPLANATION OF THE FLOWCHART***
+***FLOWCHART DESCRIPTION***
 
-*Firstly, we have a dataset which is then loaded by the program, wherein after loading the dataset it is also cleaned to avoid miscalculations, then we feature the selection and classify it, then this is when we start predicting the weather wherein the final product of the program is the generation of the weather result.*
+Firstly, we have a dataset which is then loaded by the program, wherein after loading the dataset it is also cleaned to avoid miscalculations, then we feature the selection and classify it, then this is when we start predicting the weather wherein the final product of the program is the generation of the weather result.
 
 ## ***FLOW DIAGRAM 2***
 ![3](https://user-images.githubusercontent.com/63195930/81067103-bc529980-8f10-11ea-8883-de05eec6ac5f.jpg)
 
 
-***EXPLANATION OF THE 2ND FLOWCHART***
+***FLOWCHART EXPLANATION***
 
 *The program consist of a user and an admin where the admin has special privileges in the program.*
 
 ## RUNNING THE PROGRAM
 
-***Before we run the program there are some programs and packages that we need to download and they are listed below:***
+***Before running the program, there are specific softwares that must be downloaded:***
 
 **Software Requirements**
 - Anaconda Navigator
