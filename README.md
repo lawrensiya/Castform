@@ -39,5 +39,36 @@ In the project, we used a data set which contain over 300 weather information th
 - SQLITE 
 - PYQTGraph
 
+## RUNNING THE PROGRAM WITH DOCUMENTATION
+
+***Figure 1: OPENING OF THE CODES’ FOLDER DIRECTORY USNG VS CODES***
+
+![image](https://user-images.githubusercontent.com/63195930/81061902-bdcb9400-8f07-11ea-8cdc-b8900007f972.png)
+
+![image](https://user-images.githubusercontent.com/63195930/81061919-c45a0b80-8f07-11ea-9e87-ee75fee9ae3e.png)
+
+***Figure 2: RUNNING LOGIN.PY***
+
+![image](https://user-images.githubusercontent.com/63195930/81061927-c6bc6580-8f07-11ea-84ae-7b6625abc14a.png)
+
+***Figure 3: REGISTERING IN THE PROGRAM IN ORDER TO SAVE THE LOGIN DATA INTO THE DATABASE***
+
+![image](https://user-images.githubusercontent.com/63195930/81061930-c8862900-8f07-11ea-946e-628f61431cc1.png)
+
+***Figure 4: LOGGING IN, INTO THE PROGRAM***
+
+![image](https://user-images.githubusercontent.com/63195930/81061936-cb811980-8f07-11ea-8a0f-f0d6a5dff2a3.png)
+
+***Figure 5: HOMEPAGE OF THE PROGRAM WHERE THE DATE AND THE TEMPERATURE OF THE WEATHER IS DISPLAYED HERE. THE DATA DISPLAYED HERE ARE BASED ON PAST DATA AND UPLOADED DATA***
+
+![image](https://user-images.githubusercontent.com/63195930/81062201-24e94880-8f08-11ea-9529-160a64c5cd3f.png)
+
+***Figure 6: TABLE DATA SECTION OF THE PROGRAM WHERE THE DATABASE IS DISPLAYED***
+![image](https://user-images.githubusercontent.com/63195930/81061950-d2a82780-8f07-11ea-9854-c591676024f2.png)
+
+***Figure 7: UPLOAD DATA SECTION WHERE THE USER CAN UPLOAD DATA THAT COULD HELP US PREDICT THE WEATHER MORE ACCURATELY. ***
+
+![image](https://user-images.githubusercontent.com/63195930/81061958-d5a31800-8f07-11ea-9a5c-ccc75187ea17.png)
+
 
 
