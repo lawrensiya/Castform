@@ -77,11 +77,11 @@ In the project, we used a data set which contain over 300 weather information th
 ## THIS PROJECT WAS MADE AND SUBMITTED BY: 
 
 - ***ALAMAN, EIZHNER***					
-- ***RELLANO, GENEVIEVE***
-- ***CANACELLI, ZANDRO***
+- ***ARELLANO, GENEVIEVE***
+- ***CANACELI, ZANDRO***
 - ***LANGCAUON, TIMOTHY***
 - ***LECHONCITO, ARTHUR***
-- ***NAVARRO, AIREN***
+- ***NAVARRO, AIRA***
 - ***QUITELES, SEAN ARGIE***
 
 ## THIS PROJECT WAS SUBMITTED TO:
